@@ -1,0 +1,48 @@
+Sensor Simulator License
+
+Copyright (c) 2024 Sensor Simulator Contributors
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+ADDITIONAL RESTRICTION:
+
+Notwithstanding the above, you are expressly PROHIBITED from using this
+software (or any derivative work based on this software, whether modified
+or not) as a foundation, base, or component for any project, application,
+or software that is not itself released under an open source license
+compatible with the GNU General Public License.
+
+This restriction applies regardless of whether you have modified the
+software or not. Any work that incorporates, links to, or is based on
+this software must be released under an open source license that is
+compatible with the GNU General Public License.
+
+For the purposes of this license, "open source license" means a license
+that:
+1. Allows free redistribution
+2. Includes source code
+3. Allows modifications and derived works
+4. Does not discriminate against persons or groups
+5. Does not restrict use in specific fields of endeavor
+
+If you wish to use this software in a project that does not meet these
+criteria, you must obtain explicit written permission from the copyright
+holders.
+
+---
+
+This license is based on the GNU General Public License v3.0
+with the additional restriction above. The full text of the GNU GPL v3
+can be found at: https://www.gnu.org/licenses/gpl-3.0.html
+
